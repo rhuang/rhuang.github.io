@@ -2,8 +2,8 @@
 
 title: Raymond Huang
 locale: en_US
-description: Personal website of Raymond Huang.
-logo: site-logo.jpg
+description:
+logo: profile.jpg
 search: true
 url: http://localhost:4000
 #url: http://raymondhuang.com
