@@ -8,9 +8,9 @@ date: 2015-01-15T22:09:50-04:00
 author: raymond_huang
 ---
 
-<iframe src="http://www.youtube.com/embed/WVl3BJoEoAU"> </iframe>
-
 This video is a conversation between Cenk Uygur and Sam Harris where they hash out their similarities and differences. More importantly, Harris is allowed to fully explain his view points. In other popular YouTube videos involving Sam Harris, such as the famous [Bill Maher, Ben Afflect and Sam Harris debate](https://www.youtube.com/watch?v=vln9D81eO60 "Bill Maher, Ben Afflect and Sam Harris debate"), his arguments tend to be interrupted.
+
+<iframe src="http://www.youtube.com/embed/WVl3BJoEoAU"> </iframe>
 
 The last 10 minutes of the conversation where Harris delivers his closing statements is particularly interesting. Harris portrays himself as a philosopher and states that much of his discussions have nothing to do with public policies but have been "an effort to get at ethical bedrock". He explains that "in the context of having a philosophical discussion about [the] ethics and right and wrong", seemingly crazy but legitimate arguments can surface. As an example, Harris poses a question: "What's wrong with eating babies if there are extra babies?". When quoted out of context, the question and the discussion surrounding the question is absurd. However, when trying to get to the bedrock about the ethics of good and evil, forming an ethical argument about why eating babies is wrong and why "intuitions of its wrongness can be conserved" is a legitimate conversation for philosophers.
 

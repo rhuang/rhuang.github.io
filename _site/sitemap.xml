@@ -5,8 +5,16 @@
     <lastmod>2015-01-15T18:09:50-08:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:4000/blog/eric-thomas/</loc>
+    <lastmod>2015-01-07T03:19:25-08:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:4000/blog/i-want-to-be-you/</loc>
     <lastmod>2014-05-11T05:08:50-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/blog/pop-artists-live-performances/</loc>
+    <lastmod>2013-12-18T17:05:30-08:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:4000/blog/how-to-be-successful/</loc>
@@ -14,9 +22,6 @@
   </url>
   <url>
     <loc>http://localhost:4000/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:4000/articles/</loc>
   </url>
   <url>
     <loc>http://localhost:4000/blog/</loc>
@@ -28,6 +33,6 @@
     <loc>http://localhost:4000/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/theme-setup/</loc>
+    <loc>http://localhost:4000/articles/</loc>
   </url>
 </urlset>

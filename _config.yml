@@ -13,7 +13,7 @@ comments: true
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -50,7 +50,7 @@ titlecase: true
 # Site owner
 owner:
   name: Raymond Huang
-  avatar: site-logo.jpg
+  avatar: profile.jpg
   email: huangrayr@gmail.com
   disqus-shortname: raymondhuang
   twitter: #username
@@ -66,7 +66,7 @@ owner:
   google:
     plus: RaymondHuang7
     analytics: UA-31603152-1
-    verify:
+    verify: cQMLmIeGN_nKtWPSZF6WdnxboJZ-CIJz1q4btNqw5Ss
     ad-client:
     ad-slot:
   bing-verify:
