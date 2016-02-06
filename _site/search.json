@@ -4,7 +4,11 @@
     {
       "title"			: "Weekend Snowboarding At Zermatt",
       "link"			: "http://localhost:4000/blog/weekend-snowboarding-at-zermatt/",
-      "excerpt"		: ""
+      "excerpt"		: "<figure>
+  <img src="/images/weekend-snowboarding-at-zermatt/zermatt-view-3.jpg" />
+</figure>
+
+"
     }
   
 
@@ -12,7 +16,9 @@
     ,{
       "title"			: "Sam Harris And Ethical Bedrock",
       "link"			: "http://localhost:4000/blog/sam-harris-and-ethical-bedrock/",
-      "excerpt"		: ""
+      "excerpt"		: "<p>This video is a conversation between Cenk Uygur and Sam Harris where they hash out their similarities and differences. More importantly, Harris is allowed to fully explain his view points. In other popular YouTube videos involving Sam Harris, such as the famous <a href="https://www.youtube.com/watch?v=vln9D81eO60" title="Bill Maher, Ben Afflect and Sam Harris debate">Bill Maher, Ben Afflect and Sam Harris debate</a>, his arguments tend to be interrupted.</p>
+
+"
     }
   
 
@@ -20,7 +26,9 @@
     ,{
       "title"			: "Eric Thomas",
       "link"			: "http://localhost:4000/blog/eric-thomas/",
-      "excerpt"		: ""
+      "excerpt"		: "<p>I listened to an <a href="http://lewishowes.com/podcast/eric-thomas/" title="Podcast Episode">episode</a> of <a href="http://lewishowes.com/blog/" title="The School of Greatness">The School of Greatness</a> where host Lewis Howes interviews Eric Thomas (ET The Hip Hop Preacher), the voice behind the motivational viral video, <a href="https://www.youtube.com/watch?v=lsSC2vx7zFQ&amp;feature=youtu.be" title="How Bad Do You Want It?">How Bad Do You Want It?</a>, which is also epically known for the famous quotation:</p>
+
+"
     }
   
 
@@ -28,7 +36,11 @@
     ,{
       "title"			: "I Want To Be You",
       "link"			: "http://localhost:4000/blog/i-want-to-be-you/",
-      "excerpt"		: ""
+      "excerpt"		: "<figure>
+  <img src="/images/bill-clinton-kennedy.jpg" alt="Bill Clinton" />
+</figure>
+
+"
     }
   
 
@@ -36,7 +48,9 @@
     ,{
       "title"			: "Pop Artists' Live Performances",
       "link"			: "http://localhost:4000/blog/pop-artists-live-performances/",
-      "excerpt"		: ""
+      "excerpt"		: "<p>After going through two Reddit threads about Katy Perry’s singing abilities <a href="http://www.reddit.com/r/videos/comments/1t3h1m/katy_perry_gets_caught_lip_syncing_and_is_asked/">here</a> and <a href="http://www.reddit.com/r/videos/comments/1t44sj/katy_perry_should_sing_like_this_more_often/">here</a>, I have compiled a list of videos that demonstrate various female pop artists’ live singing capabilities, including Katy Perry, Lady Gaga, Miley Cyrus, and P!nk. I feel that Lady Gaga and P!nk are the strongest in terms of their abilitiy to sing and perform.</p>
+
+"
     }
   
 
@@ -44,7 +58,11 @@
     ,{
       "title"			: "How To Be Successful",
       "link"			: "http://localhost:4000/blog/how-to-be-successful/",
-      "excerpt"		: ""
+      "excerpt"		: "<figure>
+  <img src="/images/success-kid.jpg" alt="Success Kid" />
+</figure>
+
+"
     }
   
 

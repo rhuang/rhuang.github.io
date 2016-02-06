@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Pop Artists' Live Performances"
-excerpt:
 categories: blog
 comments: true
 share: true

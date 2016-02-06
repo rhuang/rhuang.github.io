@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Weekend Snowboarding At Zermatt"
-excerpt:
 categories: blog
 comments: true
 share: true
