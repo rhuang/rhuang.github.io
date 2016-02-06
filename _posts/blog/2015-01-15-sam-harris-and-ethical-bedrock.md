@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sam Harris And Ethical Bedrock"
+excerpt:
 categories: blog
 comments: true
 share: true

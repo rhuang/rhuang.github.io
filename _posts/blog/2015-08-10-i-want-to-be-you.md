@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I Want To Be You"
+excerpt:
 categories: blog
 comments: true
 share: true

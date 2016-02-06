@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How To Be Successful"
+excerpt:
 categories: blog
 comments: true
 share: true

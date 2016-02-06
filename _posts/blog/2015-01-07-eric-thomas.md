@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Eric Thomas"
+excerpt:
 categories: blog
 comments: true
 share: true

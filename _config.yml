@@ -6,6 +6,7 @@ description:
 logo: profile.jpg
 search: true
 url: http://raymondhuang.com
+# url: http://localhost:4000
 comments: true
 
 # Jekyll configuration
