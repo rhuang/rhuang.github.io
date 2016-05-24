@@ -5,7 +5,7 @@ categories: blog
 comments: true
 share: true
 excerpt: "First time cutting after a bulk as a skinny kid, and I worry my biceps are shrinking. I smile at my vanity as I pull out my tape measure for reassurance."
-tags: "bulking,cutting,working out,university bulking,college bulking"
+tags: "bulking,cutting,university,college,lifting"
 date: 2016-05-23T15:34:55-04:00
 author: raymond_huang
 image:
