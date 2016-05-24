@@ -4,6 +4,8 @@ title: "Mailgun::CommunicationError (400 Bad Request)"
 categories: blog
 comments: true
 share: true
+excerpt: "How to fix the Mailgun::ComunicationError (400 Bad Request) exception when sending emails from the sandbox domain."
+tags: mailgun, programming
 date: 2016-05-09T22:23:54-01:00
 author: raymond_huang
 ---
