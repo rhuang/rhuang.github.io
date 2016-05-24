@@ -8,7 +8,7 @@ date: 2016-05-23T15:34:55-04:00
 author: raymond_huang
 image:
   feature: zyzz.jpg
-  ---
+---
 
   I believe that I have an unreasonable fear of losing weight. Growing up, I was a small kid. I used to have a poor appetite and I assume I have a fast metabolism. When I was in elementary school, drinking a glass of warm milk for breakfast every morning was a monumental struggle, although in hindsight I would argue that drinking warm milk for anybody is a monumental struggle. I went to university at the age of 18 measuring 171 cm and 120 lbs. My self-consiousness regarding my weight and scrawny apperance grew linearly with my age. In my second year of university during my second co-op term in the wind chilled winter of a February Toronto, I signed up for an outrageously overpriced $90 a month membership with Goodlife Fitness. Why not January? I spent January burning the midnight oil browsing [http://www.bodybuilding.com](http://www.bodybuilding.com), learning about [Zyzz](https://en.wikipedia.org/wiki/Aziz_Shavershian), and deciding the best bang for the buck protein powder that I could afford with my measley internship earnings.
 
