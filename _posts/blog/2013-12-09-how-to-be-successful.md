@@ -6,11 +6,9 @@ comments: true
 share: true
 date: 2013-12-09T15:39:55-04:00
 author: raymond_huang
+image:
+  feature: success-kid.jpg
 ---
-
-<figure>
-  <img src="/images/success-kid.jpg" alt="Success Kid">
-</figure>
 
 In order to be successful, I try to convince myself that working harder than everyone else is much more important than being born talented and smart.
 
